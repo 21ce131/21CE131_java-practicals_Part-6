@@ -1,3 +1,7 @@
+/*NAME : RISHI SHAH
+ID : 21CE131
+AIM : Write a program to increment the value of one variable by one and display 
+it after one second using thread using sleep() method.*/
 class Mythread extends Thread {
     public static int counter = 0;
 
